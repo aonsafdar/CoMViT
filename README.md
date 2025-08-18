@@ -1,6 +1,6 @@
 # CoMViT
 
-**CoMViT** (Compact Medical Vision Transformer) is a lightweight and efficient Vision Transformer designed for low-resource medical imaging tasks. It replaces rigid patch tokenization with optimized convolutional tokenizers, incorporates sequence pooling, and applies locality-aware self-attention through diagonal masking and learnable temperature scaling techniques.
+**CoMViT** (Compact Medical Vision Transformer) is a lightweight and efficient Vision Transformer designed for low-resource medical imaging tasks. It is size-configured for optimization and replaces rigid patch tokenization with optimized convolutional tokenizers, incorporates learnable sequence pooling, and applies locality-aware self-attention through diagonal masking and learnable temperature scaling techniques.
 
 ---
 
