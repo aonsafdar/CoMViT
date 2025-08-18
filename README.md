@@ -127,7 +127,7 @@ If you use CoMViT in your research, please cite:
 ---
 
 ## 📬 Contact
-For questions or contributions, please contact xyz
+For questions or discussion, please contact aon.safdar@ucdconnect.ie
 
 ---
 
