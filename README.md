@@ -112,7 +112,7 @@ If you use CoMViT in your research, please cite:
 ```bibtex
 @inproceedings{comvit2025,
   title     = {CoMViT: Efficient Vision Backbone for Representation Learning in Medical Imaging},
-  author    = {xyz},
+  author    = {Aon Safdar, Mohamed Saadeldin},
   booktitle = {MICCAI MIRASOL Workshop},
   year      = {2025}
 }
